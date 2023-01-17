@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 
 import './App.css';
 
-//component file
+// component file
 import TodoContainer from './components/TodoContainer';
 
 ReactDOM.render(
